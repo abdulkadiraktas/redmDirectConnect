@@ -2,7 +2,7 @@
 Allows you to start RedM from a URL.
 
 # Setup
-Download the latest version and extract it from the zip file.
+Download the latest version and extract it from the [zip file](https://github.com/abdulkadiraktas/redmDirectConnect/releases/latest/download/RedmDirectConnect.zip).
 Run "RedmDirectConnect.exe" once from the extracted files.
 Paste one of the examples below into your browser and select "Open RedmDirectConnect application".
 Do not delete the extracted files.
@@ -16,7 +16,7 @@ redm://cfxserverid
  URL'den Redm'i başlatmanıza olanak sağlar.
 
 # Kurulum
-1. Son sürümü indirip zipten çıkartın.
+1. [Son sürümü](https://github.com/abdulkadiraktas/redmDirectConnect/releases/latest/download/RedmDirectConnect.zip) indirip zipten çıkartın.
 2. Zipten çıkardığınız dosyaların içerisinde bulunan "RedmDirectConnect.exe"'yi 1 defa çalıştırın.
 3. Aşağıdaki örneklerden birisini tarayıcınıza yapıştırın ve "RedmDirectConnect" uygulamayı aç'ı seçin.
 4. Zipten çıkardığınız dosyaları kesinlikle silmeyin.
