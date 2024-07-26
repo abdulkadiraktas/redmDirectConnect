@@ -8,8 +8,11 @@ Paste one of the examples below into your browser and select "Open RedmDirectCon
 Do not delete the extracted files.
 
 #Examples
+
 redm://testwesworld.abdulkadiraktas.com.tr
+
 redm://ip
+
 redm://cfxserverid
 
 # redmDirectConnect
@@ -23,6 +26,9 @@ redm://cfxserverid
 
 
 #Örnekler
+
 redm://testwesworld.abdulkadiraktas.com.tr
+
 redm://ip:port 
+
 redm://cfxserverid
